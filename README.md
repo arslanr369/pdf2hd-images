@@ -53,7 +53,7 @@ To run this application, you'll need the following dependencies:
 
 ## 🖥️ Screenshots
 
-![App Screenshot]![pdf2image-hd](https://github.com/user-attachments/assets/505eaac2-f7ee-4181-b847-0e48f0f3a5e7)
+![pdf2image-hd](https://github.com/user-attachments/assets/505eaac2-f7ee-4181-b847-0e48f0f3a5e7)
 
 ## ⚙️ Customization
 
