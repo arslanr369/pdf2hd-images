@@ -91,18 +91,3 @@ We strive to maintain a welcoming and inclusive environment for all contributors
 ## Thank You!
 
 Your contributions are what make this project great. Thank you for your time and effort! 🙌
-```
-
-### How to Use:
-
-1. **Fork the Repository**: Contributors will fork your repository to make changes on their own copy.
-2. **Create a Branch**: Contributors should create a new branch for their changes.
-3. **Commit & Push Changes**: After making changes, they will commit and push their changes back to their forked repository.
-4. **Open a Pull Request**: Contributors will create a pull request to propose their changes to the main repository.
-5. **Testing**: It encourages contributors to test their changes thoroughly before submitting.
-
-### Additional Notes:
-- You can create a **Code of Conduct** file if you want to set expectations for behavior within the community. It’s optional but can foster a welcoming environment.
-- If there are specific guidelines for contributing (e.g., coding standards, style guides), you can add them here.
-
-This will provide a comprehensive guide for any potential contributors. Let me know if you need further customization!
