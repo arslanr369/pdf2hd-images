@@ -1,0 +1,2 @@
+PyMuPDF==1.21.1
+tkinter==8.6.12
