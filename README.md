@@ -21,7 +21,7 @@ To run this application, you'll need the following dependencies:
 ### Install the dependencies:
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/pdf-to-image-converter.git
+   git clone https://github.com/arslanr369/pdf-to-image-converter.git
    ```
 
 2. Navigate to the project directory:
