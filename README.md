@@ -1,6 +1,3 @@
-Here’s a beautifully formatted **README.md** for your PDF to Image Converter app:
-
-```markdown
 # PDF to Image Converter (HD Quality)
 
 A simple yet powerful Python application that converts PDF files to high-quality images (JPEG format) with ease. Built with **PyMuPDF** for efficient PDF processing and **Tkinter** for a user-friendly graphical interface, this app makes converting PDFs to images a seamless experience. Whether you're working with one-page PDFs or multi-page documents, this tool ensures HD quality for every page.
@@ -70,25 +67,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-If you have any questions or suggestions, feel free to open an issue or contact me directly via email at [your-email@example.com].
+If you have any questions or suggestions, feel free to open an issue or contact me directly via email at [Arslanriaz785@gmail.com].
 
 ---
 
 Enjoy converting your PDFs to high-quality images! 😊
-```
-
-### Key Sections:
-1. **Features**: Lists the key features of the app.
-2. **Requirements**: Explains the dependencies and installation instructions.
-3. **How to Use**: Provides a step-by-step guide for using the app.
-4. **Screenshots**: You can add a screenshot of the app in action here (just replace the link with an actual image).
-5. **Customization**: Explains how users can adjust the zoom factor for better image quality.
-6. **License**: A section for licensing (MIT License in this case).
-7. **Contact**: Offers a way for users to reach out for feedback or support.
-
-### Notes:
-- **Screenshots**: Add a screenshot (`screenshot.png`) showing the app in action to make it visually appealing.
-- **Zoom Factor**: You can explain how the zoom factor affects image resolution to give users more control over output quality.
-- **License**: Modify the license section according to the actual license you choose (MIT License is a popular open-source license).
-
-This **README.md** is designed to be clear, informative, and visually appealing for users on GitHub. Let me know if you need further customization!
